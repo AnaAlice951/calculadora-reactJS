@@ -29,4 +29,3 @@ npm start
 - ``Node.js``
 - ``ReactJS``
 - ``CSS``
-- ``Bootstrap``
